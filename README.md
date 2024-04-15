@@ -1,1 +1,1 @@
-live demo - https://products-pagination.pages.dev/
+live demo - https://react-pagination-tutorial.pages.dev/
