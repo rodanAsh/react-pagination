@@ -21,6 +21,11 @@ function App() {
       selectedPage <= products.length/10 && 
       page !== selectedPage){
       setPage(selectedPage);
+
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth',
+    });
     }
     
   }
